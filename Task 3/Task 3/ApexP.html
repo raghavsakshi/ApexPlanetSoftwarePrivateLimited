@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz & Joke Generator</title>
+  <link rel="stylesheet" href="ApexP.css" />
+</head>
+<body>
+  <div class="container">
+
+    <h1>Web Dev Quiz &  Joke Generator</h1>
+
+    <!-- JOKE SECTION -->
+    <section class="joke-section">
+      <h2>😂 Random Joke</h2>
+      <p class="quote" id="joke">Loading joke...</p>
+      <button class="btn" onclick="loadJoke()">New Joke</button>
+    </section>
+
+    <hr style="margin: 40px 0;">
+
+    <!-- QUIZ SECTION -->
+    <section class="quiz-section" id="quiz-box">
+      <h2>🧠 Web Development Quiz</h2>
+      <div class="question" id="question">Question text</div>
+      <div id="options"></div>
+      <button class="btn" onclick="nextQuestion()">Next</button>
+    </section>
+
+    <section class="score-section" id="score-section" style="display: none;">
+      <h2>🎉 Quiz Completed</h2>
+      <p id="score">Your score is 0/5</p>
+      <button class="btn" onclick="restartQuiz()">Restart Quiz</button>
+    </section>
+
+  </div>
+  <script src="ApexP.js"></script>
+</body>
+</html>
