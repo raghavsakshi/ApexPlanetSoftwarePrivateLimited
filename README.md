@@ -17,11 +17,16 @@ This repository contains all the tasks and sub-projects completed during my **45
 
 | Task No. | Title                              | Description                                                   | Status        |  |
 |----------|------------------------------------|---------------------------------------------------------------|---------------||
-| **Task 1** | Basics of Web Development          | Movie website + styled layout + JS interaction                    | ✅ Completed  | |
-| **Task 2** | Intermediate HTML, CSS & JS        | Contact form, validation, flex/grid, localStorage to-do app   | ✅ Completed  | |
-| **Task 3** | Advanced Styling + JS + API        | Responsive Image Carousel + Weather API Integration           | ✅ Completed  | |
-| **Task 4** | Full Project Implementation        | Portfolio site, To-Do App (localStorage), Product Listing     | ✅ Completed  | |
-| **Task 5** | Final Project & Optimization       | Fully optimized final capstone: Bookera – The Era of Books    | ✅ Completed  | |
+
+| **Task 1** | Basics of Web Development          | Movie website + styled layout + JS interaction                    | ✅ Completed  | 
+
+| **Task 2** | Intermediate HTML, CSS & JS        | Contact form, validation, flex/grid, localStorage to-do app   | ✅ Completed  | 
+
+| **Task 3** | Advanced Styling + JS + API        | Responsive Image Carousel + Weather API Integration           | ✅ Completed  | 
+
+| **Task 4** | Full Project Implementation        | Portfolio site, To-Do App (localStorage), Product Listing     | ✅ Completed  | 
+
+| **Task 5** | Final Project & Optimization       | Fully optimized final capstone: Bookera – The Era of Books    | ✅ Completed  |
 
 ---
 
