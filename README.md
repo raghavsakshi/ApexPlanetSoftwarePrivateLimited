@@ -15,8 +15,7 @@ This repository contains all the tasks and sub-projects completed during my **45
 
 ## 🧩 Tasks Overview
 
-| Task No. | Title                              | Description                                                   | Status        |  |
-|----------|------------------------------------|---------------------------------------------------------------|---------------||
+Task Description
 
 | **Task 1** | Basics of Web Development          | Movie website + styled layout + JS interaction                    | ✅ Completed  | 
 
